@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.9)
+add_subdirectory(tesseract)
 add_subdirectory(lua)
 add_subdirectory(re2)
 add_subdirectory(freetype)
