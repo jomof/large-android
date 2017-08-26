@@ -1,3 +1,4 @@
 cmake_minimum_required(VERSION 3.9)
 add_subdirectory(boringssl)
+add_subdirectory(sdl2)
 #add_subdirectory(curl)
