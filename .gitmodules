@@ -19,3 +19,6 @@
 [submodule "tmp/third_party/tesseract"]
 	path = tmp/third_party/tesseract
 	url = https://github.com/tesseract-ocr/tesseract
+[submodule "third_party/tesseract"]
+	path = third_party/tesseract
+	url = https://github.com/tesseract-ocr/tesseract
