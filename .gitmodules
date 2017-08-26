@@ -31,3 +31,9 @@
 [submodule "third_party/json"]
 	path = third_party/json
 	url = https://github.com/nlohmann/json
+[submodule ".tmp/third_party/protobuf"]
+	path = .tmp/third_party/protobuf
+	url = https://github.com/google/protobuf
+[submodule "third_party/protobuf"]
+	path = third_party/protobuf
+	url = https://github.com/google/protobuf
