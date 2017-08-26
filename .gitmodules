@@ -25,3 +25,6 @@
 [submodule "third_party/flatbuffers"]
 	path = third_party/flatbuffers
 	url = https://github.com/google/flatbuffers
+[submodule ".tmp/third_party/json"]
+	path = .tmp/third_party/json
+	url = https://github.com/nlohmann/json
