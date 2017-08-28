@@ -7,3 +7,9 @@
 [submodule ".tmp/third_party/protobuf"]
 	path = .tmp/third_party/protobuf
 	url = https://github.com/google/protobuf
+[submodule "common/libpng"]
+	path = common/libpng
+	url = https://github.com/glennrp/libpng
+[submodule "common/sdl2"]
+	path = common/sdl2
+	url = https://github.com/jomof/sdl2
