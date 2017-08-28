@@ -13,3 +13,6 @@
 [submodule "common/sdl2"]
 	path = common/sdl2
 	url = https://github.com/jomof/sdl2
+[submodule "common/re2"]
+	path = common/re2
+	url = https://github.com/jomof/re2
