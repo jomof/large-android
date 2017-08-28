@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.9)
 add_subdirectory(libpng)
 #add_subdirectory(protobuf/cmake)
-add_subdirectory(json)
+#add_subdirectory(json)
 add_subdirectory(flatbuffers)
 #add_subdirectory(tesseract)
 add_subdirectory(lua)
