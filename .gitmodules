@@ -1,42 +1,9 @@
-[submodule "third_party/boringssl"]
-	path = third_party/boringssl
-	url = https://github.com/google/boringssl
-[submodule "third_party/curl"]
-	path = third_party/curl
-	url = https://github.com/curl/curl
-[submodule "third_party/sdl2"]
-	path = third_party/sdl2
-	url = https://github.com/jomof/sdl2
-[submodule "third_party/freetype"]
-	path = third_party/freetype
-	url = https://github.com/jomof/freetype
-[submodule "third_party/re2"]
-	path = third_party/re2
-	url = https://github.com/jomof/re2
-[submodule "third_party/lua"]
-	path = third_party/lua
-	url = https://github.com/jomof/lua
 [submodule "tmp/third_party/tesseract"]
 	path = tmp/third_party/tesseract
 	url = https://github.com/tesseract-ocr/tesseract
-[submodule "third_party/tesseract"]
-	path = third_party/tesseract
-	url = https://github.com/tesseract-ocr/tesseract
-[submodule "third_party/flatbuffers"]
-	path = third_party/flatbuffers
-	url = https://github.com/google/flatbuffers
 [submodule ".tmp/third_party/json"]
 	path = .tmp/third_party/json
-	url = https://github.com/nlohmann/json
-[submodule "third_party/json"]
-	path = third_party/json
 	url = https://github.com/nlohmann/json
 [submodule ".tmp/third_party/protobuf"]
 	path = .tmp/third_party/protobuf
 	url = https://github.com/google/protobuf
-[submodule "third_party/protobuf"]
-	path = third_party/protobuf
-	url = https://github.com/google/protobuf
-[submodule "third_party/libpng"]
-	path = third_party/libpng
-	url = https://github.com/glennrp/libpng
