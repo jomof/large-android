@@ -16,3 +16,18 @@
 [submodule "common/re2"]
 	path = common/re2
 	url = https://github.com/jomof/re2
+[submodule "common/lua"]
+	path = common/lua
+	url = https://github.com/jomof/lua
+[submodule "common/fplutil"]
+	path = common/fplutil
+	url = http://github.com/google/fplutil.git
+[submodule "common/breadboard"]
+	path = common/breadboard
+	url = http://github.com/google/breadboard.git
+[submodule "common/motive"]
+	path = common/motive
+	url = https://github.com/google/motive
+[submodule "common/mathfu"]
+	path = common/mathfu
+	url = https://github.com/jomof/mathfu
