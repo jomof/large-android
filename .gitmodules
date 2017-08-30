@@ -1,12 +1,3 @@
-[submodule "tmp/third_party/tesseract"]
-	path = tmp/third_party/tesseract
-	url = https://github.com/tesseract-ocr/tesseract
-[submodule ".tmp/third_party/json"]
-	path = .tmp/third_party/json
-	url = https://github.com/nlohmann/json
-[submodule ".tmp/third_party/protobuf"]
-	path = .tmp/third_party/protobuf
-	url = https://github.com/google/protobuf
 [submodule "common/libpng"]
 	path = common/libpng
 	url = https://github.com/glennrp/libpng
